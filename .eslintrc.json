@@ -17,6 +17,7 @@
         "error",
         "windows"
       ],
+      "semi": [2, "always"],
       "quotes": [
         "error",
         "single"
